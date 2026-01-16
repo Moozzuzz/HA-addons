@@ -1,7 +1,7 @@
-## miniDLNA for home-assistant
+## miniDLNA for Home Assistant (HA)
 ## Description
 
-This addon provide a container for home-assistant with miniDLNA. Based on work from Drize.
+This addon provide a container for Home Assistant with miniDLNA. Based on work from Drize & Cavaliere78.
 
 ## Installation
 
