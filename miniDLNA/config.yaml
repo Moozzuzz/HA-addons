@@ -6,11 +6,8 @@ slug: minidlna
 # tot aan de echte locatie
 url: https://github.com/Moozzuzz/HA-addons
 arch: 
-  - armhf
-  - armv7
   - aarch64
   - amd64
-  - i386
 ports: 
   1900/udp: 1900
 
